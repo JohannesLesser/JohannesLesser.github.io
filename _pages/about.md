@@ -6,10 +6,10 @@ permalink: /about
 ---
 
 
-### Lorem ipsum dolor
+### Kurze Vorstellung
 
 Schönen Tag! Mein Name ist Johannes Lesser. Ich bin Fotograf und Filmer aus
-dem Norden Münchens. Der Fokus meiner bisherigen Arbeit liegt in den Bereichen
+Freising. Der Fokus meiner bisherigen Arbeit liegt in den Bereichen
 Portrait, Reportage, Werbung und Sport.
 
 Adresse:
