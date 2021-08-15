@@ -8,9 +8,12 @@ permalink: /about
 
 ### Lorem ipsum dolor
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore
-magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd
-gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing
-elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et
-accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit
-amet.
+Schönen Tag! Mein Name ist Johannes Lesser. Ich bin Fotograf und Filmer aus
+dem Norden Münchens. Der Fokus meiner bisherigen Arbeit liegt in den Bereichen
+Portrait, Reportage, Werbung und Sport.
+
+Adresse:
+Eschenweg 20
+85354 Freising
+01525 5799613
+johannes-lesser@web.de
