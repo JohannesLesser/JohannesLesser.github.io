@@ -1,8 +1,3 @@
-
-C:\Users\Johan>cd C:\Users\Johan\Desktop\Website
-
-C:\Users\Johan\Desktop\Website>bundle exec jekyll serve
-
 1. Open Atom
 1.2. Open Project, C:\Users\Johan\Desktop\Website
 2. Open CMD
