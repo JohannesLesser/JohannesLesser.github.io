@@ -1,0 +1,9 @@
+@import 'fontsource-mixins';
+
+@include fontFace(
+  $fontName: "Gowun Batang",
+  $fontId: "gowun-batang",
+  $weight: 400,
+  $display: swap,
+  $fontDir: "/assets/fonts"
+);
